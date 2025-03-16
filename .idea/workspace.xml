@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd39148-6b7d-4d18-85e1-534e60706914" name="Changes" comment="" />
+    <list default="true" id="0bd39148-6b7d-4d18-85e1-534e60706914" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BackEnd/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/OrderManagementApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/controller/OrdersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/enums/PaymentStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/model/Orders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/java/com/example/OrderManagement/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackEnd/src/test/java/com/example/OrderManagement/OrderManagementApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/order-management-system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +49,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -56,9 +91,9 @@
   "keyToString": {
     "Application.OrderManagementApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "FandB",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/New folder/OrderManagement/OrderManagement",
+    "last_opened_file_path": "D:/New folder/OrderManagement/OrderManagement/BackEnd",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
